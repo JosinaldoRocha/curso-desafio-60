@@ -1,5 +1,6 @@
+import '../enums/athlete_enum.dart';
 import '../interfaces/person_interface.dart';
-import '../variables/all_variables.dart';
+import '../enums/person_enum.dart';
 
 class AthleteModel implements PersonInterface {
   double physicalCondition;

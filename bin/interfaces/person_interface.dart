@@ -1,4 +1,4 @@
-import '../variables/all_variables.dart';
+import '../enums/person_enum.dart';
 
 abstract class PersonInterface {
   late String name;

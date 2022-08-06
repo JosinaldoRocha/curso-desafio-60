@@ -1,5 +1,5 @@
 import '../interfaces/football_interface.dart';
-import '../variables/all_variables.dart';
+import '../enums/football_player_enum.dart';
 import 'athlete_model.dart';
 
 class FootballPlayer extends AthleteModel implements FootballInterface {
